@@ -17,16 +17,6 @@ I'm solving one LeetCode problem every day and sharing the code, approach, and l
 
 ---
 
-## 📂 Repository Structure
-
-Leetcode_Problems/
-│
-├── Day01_RomanToInteger.py
-├── Day02_LongestCommonPrefix.py
-├── ...
-│
-└── README.md
-
 - Each file is named with its day and problem title
 - Clean and readable code
 - Comments added wherever needed
