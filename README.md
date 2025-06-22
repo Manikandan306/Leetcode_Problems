@@ -70,6 +70,9 @@ Feel free to connect or reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/manikandan306)
 - [GitHub](https://github.com/Manikandan306)
+- [Instagram](https://www.instagram.com/karna_editor_)
+
+
 - Email: [your-email@example.com]
 
 ---
