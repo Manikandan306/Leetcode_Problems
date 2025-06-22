@@ -73,7 +73,7 @@ Feel free to connect or reach out:
 - [Instagram](https://www.instagram.com/karna_editor_)
 
 
-- Email: [your-email@example.com]
+- Email: [manikandan.sec21@gmail.com]
 
 ---
 
