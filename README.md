@@ -19,3 +19,69 @@ I'm solving one LeetCode problem every day and sharing the code, approach, and l
 
 ## 📂 Repository Structure
 
+Leetcode_Problems/
+│
+├── Day01_RomanToInteger.py
+├── Day02_LongestCommonPrefix.py
+├── ...
+│
+└── README.md
+
+- Each file is named with its day and problem title
+- Clean and readable code
+- Comments added wherever needed
+
+---
+
+## 🔗 Daily Challenge Posts
+
+I'm also posting every solution with learning and thoughts on **LinkedIn**:  
+[🔗 Visit My LinkedIn Profile](https://www.linkedin.com/in/manikandan306)  
+Check out the hashtag: **#CodeCrack30**
+
+---
+
+## 📌 Problem Links
+
+| Day | Problem | Difficulty | LeetCode Link |
+|-----|---------|------------|---------------|
+| 1   | Roman to Integer | Easy | [Problem Link](https://leetcode.com/problems/roman-to-integer) |
+| 2   | Longest Common Prefix | Easy | [Problem Link](https://leetcode.com/problems/longest-common-prefix) |
+| 3   | Coming Soon | - | - |
+
+_(Updated daily...)_
+
+---
+
+## 🧠 Why I'm Doing This
+
+This challenge is not just about solving problems.  
+It's about:
+- Building consistency
+- Improving my problem-solving skills
+- Helping others learn with me
+- Staying job-ready for tech interviews
+
+---
+
+## 🤝 Want to Join Me?
+
+- Try the problems yourself
+- Share your code on LinkedIn with **#CodeCrack30**
+- DM or comment if you get stuck or want to discuss logic
+
+Let’s grow together, one problem at a time.
+
+---
+
+## 🌱 Contact
+
+Feel free to connect or reach out:
+
+- [LinkedIn](https://www.linkedin.com/in/manikandan306)
+- [GitHub](https://github.com/Manikandan306)
+- Email: [your-email@example.com]
+
+---
+
+**Thanks for stopping by! Let’s crack code, daily.**
