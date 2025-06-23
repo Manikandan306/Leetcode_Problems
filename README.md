@@ -1,4 +1,4 @@
-# LeetCode Problems – Set 1 of #CodeCrack30 Challenge 🚀
+# LeetCode Problems – Level 1 of #CodeCrack30 Challenge 🚀
 
 Welcome to my **30 Days 30 Problems LeetCode Challenge!**
 
