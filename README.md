@@ -17,9 +17,9 @@ I'm solving one LeetCode problem every day and sharing the code, approach, and l
 
 ---
 
-- Each file is named with its day and problem title
-- Clean and readable code
-- Comments added wherever needed
+- Each file is named with its day and problem title  
+- Clean and readable code  
+- Comments added wherever needed  
 
 ---
 
@@ -37,7 +37,7 @@ Check out the hashtag: **#CodeCrack30**
 |-----|---------|------------|---------------|
 | 1   | Roman to Integer | Easy | [Problem Link](https://leetcode.com/problems/roman-to-integer) |
 | 2   | Longest Common Prefix | Easy | [Problem Link](https://leetcode.com/problems/longest-common-prefix) |
-| 3   | Coming Soon | - | - |
+| 3   | Add Two Numbers | Medium | [Problem Link](https://leetcode.com/problems/add-two-numbers) |
 
 _(Updated daily...)_
 
@@ -56,9 +56,9 @@ It's about:
 
 ## 🤝 Want to Join Me?
 
-- Try the problems yourself
-- Share your code on LinkedIn with **#CodeCrack30**
-- DM or comment if you get stuck or want to discuss logic
+- Try the problems yourself  
+- Share your code on LinkedIn with **#CodeCrack30**  
+- DM or comment if you get stuck or want to discuss logic  
 
 Let’s grow together, one problem at a time.
 
@@ -68,11 +68,9 @@ Let’s grow together, one problem at a time.
 
 Feel free to connect or reach out:
 
-- [LinkedIn](https://www.linkedin.com/in/manikandan306)
-- [GitHub](https://github.com/Manikandan306)
-- [Instagram](https://www.instagram.com/karna_editor_)
-
-
+- [LinkedIn](https://www.linkedin.com/in/manikandan306)  
+- [GitHub](https://github.com/Manikandan306)  
+- [Instagram](https://www.instagram.com/karna_editor_)  
 - Email: [manikandan.sec21@gmail.com]
 
 ---
