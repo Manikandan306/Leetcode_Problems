@@ -33,11 +33,13 @@ Check out the hashtag: **#CodeCrack30**
 
 ## 📌 Problem Links
 
-| Day | Problem | Difficulty | LeetCode Link |
-|-----|---------|------------|---------------|
-| 1   | Roman to Integer | Easy | [Problem Link](https://leetcode.com/problems/roman-to-integer) |
-| 2   | Longest Common Prefix | Easy | [Problem Link](https://leetcode.com/problems/longest-common-prefix) |
-| 3   | Add Two Numbers | Medium | [Problem Link](https://leetcode.com/problems/add-two-numbers) |
+| Day | Problem                     | Difficulty | LeetCode Link |
+|-----|-----------------------------|------------|---------------|
+| 1   | Roman to Integer            | Easy       | [Problem Link](https://leetcode.com/problems/roman-to-integer) |
+| 2   | Longest Common Prefix       | Easy       | [Problem Link](https://leetcode.com/problems/longest-common-prefix) |
+| 3   | Add Two Numbers             | Medium     | [Problem Link](https://leetcode.com/problems/add-two-numbers) |
+| 4   | Longest Palindromic Substring | Medium  | [Problem Link](https://leetcode.com/problems/longest-palindromic-substring) |
+
 
 _(Updated daily...)_
 
