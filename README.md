@@ -40,6 +40,7 @@ Check out the hashtag: **#CodeCrack30**
 | 3   | Add Two Numbers                  | Medium     | [Problem Link](https://leetcode.com/problems/add-two-numbers) |
 | 4   | Longest Palindromic Substring    | Medium     | [Problem Link](https://leetcode.com/problems/longest-palindromic-substring) |
 | 5   | Longest Substring Without Repeating Characters | Medium | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
+| 6   | Zigzag Conversion                | Medium     | [Problem Link](https://leetcode.com/problems/zigzag-conversion) |
 
 _(Updated daily...)_
 
