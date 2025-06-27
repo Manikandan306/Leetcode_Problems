@@ -41,6 +41,7 @@ Check out the hashtag: **#CodeCrack30**
 | 4   | Longest Palindromic Substring    | Medium     | [Problem Link](https://leetcode.com/problems/longest-palindromic-substring) |
 | 5   | Longest Substring Without Repeating Characters | Medium | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 | 6   | Zigzag Conversion                | Medium     | [Problem Link](https://leetcode.com/problems/zigzag-conversion) |
+| 7   | Reverse Integer                  | Medium     | [Problem Link](https://leetcode.com/problems/reverse-integer) |
 
 _(Updated daily...)_
 
