@@ -42,8 +42,10 @@ Check out the hashtag: **#CodeCrack30**
 | 5   | Longest Substring Without Repeating Characters | Medium | [Problem Link](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
 | 6   | Zigzag Conversion                | Medium     | [Problem Link](https://leetcode.com/problems/zigzag-conversion) |
 | 7   | Reverse Integer                  | Medium     | [Problem Link](https://leetcode.com/problems/reverse-integer) |
+| 8  | Regular Expression Matching      | Hard       | [Problem Link](https://leetcode.com/problems/regular-expression-matching) |
 
 _(Updated daily...)_
+
 
 ---
 
