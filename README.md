@@ -44,6 +44,7 @@ Check out the hashtag: **#CodeCrack30**
 | 7   | Reverse Integer                  | Medium     | [Problem Link](https://leetcode.com/problems/reverse-integer) |
 | 8   | Regular Expression Matching      | Hard       | [Problem Link](https://leetcode.com/problems/regular-expression-matching) |
 | 9   | Integer to Roman                 | Medium     | [Problem Link](https://leetcode.com/problems/integer-to-roman) |
+| 10  | String to Integer (atoi)         | Medium     | [Problem Link](https://leetcode.com/problems/string-to-integer-atoi) |
 
 _(Updated daily...)_
 
