@@ -47,6 +47,7 @@ Check out the hashtag: **#CodeCrack30**
 | 10  | String to Integer (atoi)         | Medium     | [Problem Link](https://leetcode.com/problems/string-to-integer-atoi) |
 | 11  | Container With Most Water        | Medium     | [Problem Link](https://leetcode.com/problems/container-with-most-water) |
 | 12  | Consecutive Numbers              | Medium     | [Problem Link](https://leetcode.com/problems/consecutive-numbers) |
+| 13  | Rank Scores                      | Medium     | [Problem Link](https://leetcode.com/problems/rank-scores) |
 
 _(Updated daily...)_
 
