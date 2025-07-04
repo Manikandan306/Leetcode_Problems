@@ -49,6 +49,7 @@ Check out the hashtag: **#CodeCrack30**
 | 12  | Consecutive Numbers              | Medium     | [Problem Link](https://leetcode.com/problems/consecutive-numbers) |
 | 13  | Rank Scores                      | Medium     | [Problem Link](https://leetcode.com/problems/rank-scores) |
 | 14  | Median of Two Sorted Arrays      | Hard       | [Problem Link](https://leetcode.com/problems/median-of-two-sorted-arrays) |
+| 15  | Print in Order                   | Easy       | [Problem Link](https://leetcode.com/problems/print-in-order) |
 
 _(Updated daily...)_
 
