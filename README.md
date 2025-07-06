@@ -51,6 +51,7 @@ Check out the hashtag: **#CodeCrack30**
 | 14  | Median of Two Sorted Arrays      | Hard       | [Problem Link](https://leetcode.com/problems/median-of-two-sorted-arrays) |
 | 15  | Print in Order                   | Easy       | [Problem Link](https://leetcode.com/problems/print-in-order) |
 | 16  | Merge k Sorted Lists             | Hard       | [Problem Link](https://leetcode.com/problems/merge-k-sorted-lists) |
+| 17  | Add Binary                       | Easy       | [Problem Link](https://leetcode.com/problems/add-binary) |
 
 _(Updated daily...)_
 
