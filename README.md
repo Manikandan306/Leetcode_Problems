@@ -52,6 +52,7 @@ Check out the hashtag: **#CodeCrack30**
 | 15  | Print in Order                   | Easy       | [Problem Link](https://leetcode.com/problems/print-in-order) |
 | 16  | Merge k Sorted Lists             | Hard       | [Problem Link](https://leetcode.com/problems/merge-k-sorted-lists) |
 | 17  | Add Binary                       | Easy       | [Problem Link](https://leetcode.com/problems/add-binary) |
+| 18  | Remove Duplicates from Sorted List | Easy     | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) |
 
 _(Updated daily...)_
 
