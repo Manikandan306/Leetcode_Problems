@@ -55,6 +55,7 @@ Check out the hashtag: **#CodeCrack30**
 | 18  | Remove Duplicates from Sorted List | Easy     | [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list) |
 | 19  | Valid Parentheses                | Easy       | [Problem Link](https://leetcode.com/problems/valid-parentheses) |
 | 20  | 3Sum                             | Medium     | [Problem Link](https://leetcode.com/problems/3sum) |
+| 21  | 3Sum Closest                     | Medium     | [Problem Link](https://leetcode.com/problems/3sum-closest) |
 
 _(Updated daily...)_
 
