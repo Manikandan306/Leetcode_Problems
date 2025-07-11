@@ -56,6 +56,7 @@ Check out the hashtag: **#CodeCrack30**
 | 19  | Valid Parentheses                | Easy       | [Problem Link](https://leetcode.com/problems/valid-parentheses) |
 | 20  | 3Sum                             | Medium     | [Problem Link](https://leetcode.com/problems/3sum) |
 | 21  | 3Sum Closest                     | Medium     | [Problem Link](https://leetcode.com/problems/3sum-closest) |
+| 22  | 4Sum                             | Medium     | [Problem Link](https://leetcode.com/problems/4sum) |
 
 _(Updated daily...)_
 
