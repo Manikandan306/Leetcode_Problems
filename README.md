@@ -57,6 +57,7 @@ Check out the hashtag: **#CodeCrack30**
 | 20  | 3Sum                             | Medium     | [Problem Link](https://leetcode.com/problems/3sum) |
 | 21  | 3Sum Closest                     | Medium     | [Problem Link](https://leetcode.com/problems/3sum-closest) |
 | 22  | 4Sum                             | Medium     | [Problem Link](https://leetcode.com/problems/4sum) |
+| 23  | Merge Two Sorted Lists           | Easy       | [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists) |
 
 _(Updated daily...)_
 
