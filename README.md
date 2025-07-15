@@ -61,6 +61,10 @@ Check out the hashtag: **#CodeCrack30**
 | 24  | Generate Parentheses             | Medium     | [Problem Link](https://leetcode.com/problems/generate-parentheses) |
 | 25  | Swap Nodes in Pairs              | Medium     | [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs) |
 | 26  | N-Queens                         | Hard       | [Problem Link](https://leetcode.com/problems/n-queens) |
+| 27  | Next Permutation                 | Medium     | [Problem Link](https://leetcode.com/problems/next-permutation) |
+| 28  | Remove Nth Node From End of List | Medium     | [Problem Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |
+| 29  | Letter Combinations of a Phone Number | Medium | [Problem Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |
+| 30  | Reverse Nodes in k-Group         | Hard       | [Problem Link](https://leetcode.com/problems/reverse-nodes-in-k-group) |
 
 _(Updated daily...)_
 
