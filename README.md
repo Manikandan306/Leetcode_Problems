@@ -60,6 +60,7 @@ Check out the hashtag: **#CodeCrack30**
 | 23  | Merge Two Sorted Lists           | Easy       | [Problem Link](https://leetcode.com/problems/merge-two-sorted-lists) |
 | 24  | Generate Parentheses             | Medium     | [Problem Link](https://leetcode.com/problems/generate-parentheses) |
 | 25  | Swap Nodes in Pairs              | Medium     | [Problem Link](https://leetcode.com/problems/swap-nodes-in-pairs) |
+| 26  | N-Queens                         | Hard       | [Problem Link](https://leetcode.com/problems/n-queens) |
 
 _(Updated daily...)_
 
